@@ -1,0 +1,701 @@
+{
+  "maincategory": [
+    {
+      "_id": "0",
+      "name": "kids",
+      "id": 0
+    },
+    {
+      "_id": "1",
+      "name": "Male",
+      "id": 1
+    },
+    {
+      "_id": "2",
+      "name": "Female",
+      "id": 2
+    }
+  ],
+  "subcategory": [
+    {
+      "_id": "0",
+      "name": "Jeans",
+      "id": 0
+    },
+    {
+      "_id": "1",
+      "name": "Shirts",
+      "id": 1
+    },
+    {
+      "_id": "2",
+      "name": "T-Shirts",
+      "id": 2
+    },
+    {
+      "name": "Trousers",
+      "id": 3
+    },
+    {
+      "name": "Shoes",
+      "id": 4
+    },
+    {
+      "_id": "5",
+      "name": "Jackets",
+      "id": 5
+    },
+    {
+      "name": "Kurta",
+      "id": 6
+    },
+    {
+      "_id": "7",
+      "name": "Underwear",
+      "id": 7
+    },
+    {
+      "name": "kk",
+      "id": 8
+    }
+  ],
+  "brand": [
+    {
+      "_id": "0",
+      "name": "Prada",
+      "id": 0
+    },
+    {
+      "name": "Gucci",
+      "id": 1
+    },
+    {
+      "_id": "2",
+      "name": "BLack Buffailo",
+      "id": 2
+    },
+    {
+      "_id": "3",
+      "name": "puma",
+      "id": 3
+    },
+    {
+      "name": "Addidas",
+      "id": 4
+    },
+    {
+      "name": "Nike",
+      "id": 5
+    },
+    {
+      "_id": "6",
+      "name": "killer",
+      "id": 6
+    },
+    {
+      "name": "Zara",
+      "id": 7
+    },
+    {
+      "name": "Manyawar",
+      "id": 8
+    },
+    {
+      "name": "Lewis",
+      "id": 9
+    },
+    {
+      "name": "Jockey",
+      "id": 10
+    }
+  ],
+  "product": [
+    {
+      "_id": "4",
+      "name": "Killer Jeans slim fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "killer",
+      "color": "blue",
+      "size": "XL",
+      "baseprice": 5000,
+      "discount": 40,
+      "finalprice": 3000,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic6.jpg",
+      "pic2": "pic5.jpg",
+      "pic3": "pic7.jpg",
+      "pic4": "pic10.jpg",
+      "id": 4
+    },
+    {
+      "_id": "5",
+      "name": "Mens Tshirt Addidas",
+      "maincategory": "Male",
+      "subcategory": "T-Shirts",
+      "brand": "Addidas",
+      "color": "Black",
+      "size": "M",
+      "baseprice": 800,
+      "discount": 60,
+      "finalprice": 320,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic13.jpg",
+      "pic2": "pic11.jpg",
+      "pic3": "pic13.jpg",
+      "pic4": "pic13.jpg",
+      "id": 5
+    },
+    {
+      "_id": "6",
+      "name": "kids Jeans Nike",
+      "maincategory": "kids",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Red",
+      "size": "S",
+      "baseprice": 9000,
+      "discount": 65,
+      "finalprice": 3150,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic28.jpg",
+      "pic2": "pic27.jpg",
+      "pic3": "pic29.jpg",
+      "pic4": "pic26.jpg",
+      "id": 6
+    },
+    {
+      "name": "Zara Mens Jeans Slim Fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "Zara",
+      "color": "Blue",
+      "size": "XL",
+      "baseprice": 12000,
+      "discount": 68,
+      "finalprice": 3840,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic10.jpg",
+      "pic2": "pic6.jpg",
+      "pic3": "pic9.jpg",
+      "pic4": "pic7.jpg",
+      "id": 7
+    },
+    {
+      "name": "Ladies Wear Gucci",
+      "maincategory": "Female",
+      "subcategory": "Trousers",
+      "brand": "Gucci",
+      "color": "Red",
+      "size": "M",
+      "baseprice": 16000,
+      "discount": 48,
+      "finalprice": 8320,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic33.jpg",
+      "pic2": "pic34.jpg",
+      "pic3": "pic35.jpg",
+      "pic4": "pic32.jpg",
+      "id": 8
+    },
+    {
+      "_id": "9",
+      "name": "Mens Shoes Puma",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "puma",
+      "color": "Black",
+      "size": "8",
+      "baseprice": 6500,
+      "discount": 25,
+      "finalprice": 4875,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic22.jpg",
+      "pic2": "pic22.jpg",
+      "pic3": "pic22.jpg",
+      "pic4": "pic22.jpg",
+      "id": 9
+    },
+    {
+      "name": "Addidas  Mens Shoes",
+      "maincategory": "Male",
+      "subcategory": "Shoes",
+      "brand": "Addidas",
+      "color": "Red",
+      "size": "7",
+      "baseprice": 8700,
+      "discount": 56,
+      "finalprice": 3828,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic21.jpg",
+      "pic2": "pic21.jpg",
+      "pic3": "pic21.jpg",
+      "pic4": "pic23.jpg",
+      "id": 10
+    },
+    {
+      "name": "Nike Female Shoes",
+      "maincategory": "Female",
+      "subcategory": "Shoes",
+      "brand": "Nike",
+      "color": "Yellow",
+      "size": "38",
+      "baseprice": 9400,
+      "discount": 67,
+      "finalprice": 3102,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic25.jpg",
+      "pic2": "pic25.jpg",
+      "pic3": "pic25.jpg",
+      "pic4": "pic25.jpg",
+      "id": 11
+    },
+    {
+      "name": "Kids Casual shoes",
+      "maincategory": "kids",
+      "subcategory": "Shoes",
+      "brand": "killer",
+      "color": "Yellow",
+      "size": "6",
+      "baseprice": 3400,
+      "discount": 44,
+      "finalprice": 1904,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic23.jpg",
+      "pic2": "pic23.jpg",
+      "pic3": "pic23.jpg",
+      "pic4": "pic23.jpg",
+      "id": 12
+    },
+    {
+      "name": "Mens Prada Jackets",
+      "maincategory": "Male",
+      "subcategory": "Jackets",
+      "brand": "Prada",
+      "color": "Red",
+      "size": "42",
+      "baseprice": 11000,
+      "discount": 70,
+      "finalprice": 3300,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic17.jpg",
+      "pic2": "pic17.jpg",
+      "pic3": "pic17.jpg",
+      "pic4": "pic17.jpg",
+      "id": 13
+    },
+    {
+      "name": "Zara Ladies Jackets",
+      "maincategory": "Female",
+      "subcategory": "Jackets",
+      "brand": "Zara",
+      "color": "Yellow",
+      "size": "36",
+      "baseprice": 14000,
+      "discount": 40,
+      "finalprice": 8400,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic20.jpg",
+      "pic2": "pic20.jpg",
+      "pic3": "pic20.jpg",
+      "pic4": "pic20.jpg",
+      "id": 14
+    },
+    {
+      "name": "Manyawar Kurta",
+      "maincategory": "Female",
+      "subcategory": "Kurta",
+      "brand": "Manyawar",
+      "color": "Yellow",
+      "size": "38",
+      "baseprice": 2000,
+      "discount": 40,
+      "finalprice": 1200,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic33.jpg",
+      "pic2": "pic33.jpg",
+      "pic3": "pic33.jpg",
+      "pic4": "pic33.jpg",
+      "id": 15
+    },
+    {
+      "name": "Female Lewis Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Lewis",
+      "color": "Blue",
+      "size": "32",
+      "baseprice": 4000,
+      "discount": 42,
+      "finalprice": 2320,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic7.jpg",
+      "pic2": "pic7.jpg",
+      "pic3": "pic7.jpg",
+      "pic4": "pic7.jpg",
+      "id": 16
+    },
+    {
+      "name": "Jockey Mens Innerwear ",
+      "maincategory": "Male",
+      "subcategory": "Underwear",
+      "brand": "Jockey",
+      "color": "Black",
+      "size": "85",
+      "baseprice": 800,
+      "discount": 40,
+      "finalprice": 480,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic14.jpg",
+      "pic2": "pic14.jpg",
+      "pic3": "pic14.jpg",
+      "pic4": "pic14.jpg",
+      "id": 17
+    },
+    {
+      "name": "Mens Tshirt Nike",
+      "maincategory": "Male",
+      "subcategory": "T-Shirts",
+      "brand": "Nike",
+      "color": "Black",
+      "size": "M",
+      "baseprice": 4000,
+      "discount": 30,
+      "finalprice": 2800,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic11.jpg",
+      "pic2": "pic11.jpg",
+      "pic3": "pic11.jpg",
+      "pic4": "pic11.jpg",
+      "id": 18
+    },
+    {
+      "name": "wfwfw",
+      "maincategory": "kids",
+      "subcategory": "kk",
+      "brand": "Nike",
+      "color": "sss",
+      "size": "M",
+      "baseprice": -6,
+      "discount": 33,
+      "finalprice": -4,
+      "stock": "In stock",
+      "description": "This is a Sample Product",
+      "pic1": "pic4.jpg",
+      "pic2": "pic6.jpg",
+      "pic3": "pic6.jpg",
+      "pic4": "pic10.jpg",
+      "id": 19
+    }
+  ],
+  "user": [
+    {
+      "_id": 1,
+      "name": "shahbaz",
+      "email": "sasiddique@gmail.com",
+      "phone": "1234456789",
+      "password": "12345saz",
+      "addressline1": "D67",
+      "addressline2": "Masjid Gali",
+      "addressline3": "New Ashok Nagar",
+      "pin": "110096",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "role": "user",
+      "id": 1
+    },
+    {
+      "_id": 2,
+      "name": "Naimullah",
+      "email": "sasiddique@gmail.com",
+      "phone": "1234456789",
+      "password": "123456saz",
+      "addressline1": "New Ashok Nagar",
+      "addressline2": "7525054638",
+      "addressline3": "New Delhi",
+      "pin": "110096",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "role": "user",
+      "id": 2
+    },
+    {
+      "_id": 3,
+      "name": "shahbaz ahmad mm",
+      "username": "shahbaz",
+      "email": "sasiddique@gmail.comm",
+      "phone": "1234456789",
+      "password": "12345saz",
+      "addressline1": "D67",
+      "addressline2": "Masjid Gali",
+      "addressline3": "New Ashok Nagar",
+      "pin": "110096",
+      "city": "New Delhi",
+      "state": "New Delhi",
+      "pic": "pic1.jpg",
+      "role": "user",
+      "id": 3
+    },
+    {
+      "name": "Shiba Khan",
+      "username": "shiba",
+      "email": "shibakhan@gmail.com",
+      "phone": "7525054638",
+      "password": "12345saz",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "user",
+      "id": 4
+    },
+    {
+      "name": "Shahbaz Ahmad Sidd.",
+      "username": "shahbaz",
+      "email": "sasiddique@gmail.com",
+      "phone": "7525054638",
+      "password": "12345saz",
+      "addressline1": "",
+      "addressline2": "",
+      "addressline3": "",
+      "pin": "",
+      "city": "",
+      "state": "",
+      "pic": "",
+      "role": "user",
+      "id": 5
+    }
+  ],
+  "contact": [
+    {
+      "_id": "1",
+      "status": "Done",
+      "name": "shahbaz ahmad",
+      "email": "sasiddique@gmail.com",
+      "phone": "7525054638",
+      "subject": "this is for sample",
+      "message": "hvgcfgrydvvfhxdfvcdgxtrdygfxrydtvkjcjhfxtufh\nhmhhgbhvghfkghjvgjk\njvgjjbkb.\nj,vgjfilbhkbvkhvk",
+      "date": "2023-11-12T21:12:56.885Z",
+      "id": 1
+    },
+    {
+      "_id": "2",
+      "status": "Done",
+      "name": "Nishat Ahmad",
+      "email": "sasiddique@gmail.com",
+      "phone": "7525054638",
+      "subject": "Going to home",
+      "message": "bgkjckvb tuxdi86lgvbj.l,jbjckhlvhknm\nj,hvtucfki,vgvhj\nj,vgkjlg.b,m  \njhvcfjxukyilukjbnm\n",
+      "date": "2023-11-12T21:13:34.552Z",
+      "id": 2
+    }
+  ],
+  "newsletter": [
+    {
+      "email": "abc@gmail.com",
+      "id": 2
+    },
+    {
+      "email": "sasiddique99@gmail.com",
+      "id": 3
+    },
+    {
+      "email": "nayim@gmail.com",
+      "id": 5
+    },
+    {
+      "email": "xyzm@gmail.com",
+      "id": 6
+    }
+  ],
+  "cart": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "4",
+      "productid": "16",
+      "name": "Female Lewis Jeans",
+      "maincategory": "Female",
+      "subcategory": "Jeans",
+      "brand": "Lewis",
+      "color": "Blue",
+      "size": "32",
+      "price": 2320,
+      "qty": 1,
+      "total": 2320,
+      "pic": "pic7.jpg",
+      "id": 1
+    },
+    {
+      "userid": "4",
+      "productid": "5",
+      "name": "Mens Tshirt Addidas",
+      "maincategory": "Male",
+      "subcategory": "T-Shirts",
+      "brand": "Addidas",
+      "color": "Black",
+      "size": "M",
+      "price": 320,
+      "qty": 1,
+      "total": 320,
+      "pic": "pic13.jpg",
+      "id": 2
+    }
+  ],
+  "wishlist": [
+    {
+      "id": 0
+    },
+    {
+      "userid": "4",
+      "productid": "4",
+      "name": "Killer Jeans slim fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "killer",
+      "color": "blue",
+      "size": "XL",
+      "price": 3000,
+      "pic": "pic6.jpg",
+      "id": 1
+    },
+    {
+      "userid": null,
+      "productid": "4",
+      "name": "Killer Jeans slim fit",
+      "maincategory": "Male",
+      "subcategory": "Jeans",
+      "brand": "killer",
+      "color": "blue",
+      "size": "XL",
+      "price": 3000,
+      "pic": "pic6.jpg",
+      "id": 2
+    },
+    {
+      "userid": "3",
+      "productid": "6",
+      "name": "kids Jeans Nike",
+      "maincategory": "kids",
+      "subcategory": "Jeans",
+      "brand": "Nike",
+      "color": "Red",
+      "size": "S",
+      "price": 3150,
+      "pic": "pic28.jpg",
+      "id": 3
+    }
+  ],
+  "checkout": [
+    {
+      "id": 0
+    },
+    {
+      "_id": "1",
+      "userid": "3",
+      "mode": "COD",
+      "status": "Order reached at Final Delevery Station",
+      "rppid": "",
+      "total": 13524,
+      "shipping": 0,
+      "final": 13524,
+      "date": "2023-11-20T12:20:47.462Z",
+      "products": [
+        {
+          "_id": 4,
+          "userid": "3",
+          "productid": "8",
+          "name": "Ladies Wear Gucci",
+          "maincategory": "Female",
+          "subcategory": "Trousers",
+          "brand": "Gucci",
+          "color": "Red",
+          "size": "M",
+          "pic": "pic33.jpg",
+          "qty": 1,
+          "price": 8320,
+          "total": 8320
+        },
+        {
+          "_id": 5,
+          "userid": "3",
+          "productid": "12",
+          "name": "Kids Casual shoes",
+          "maincategory": "kids",
+          "subcategory": "Shoes",
+          "brand": "killer",
+          "color": "Yellow",
+          "size": "6",
+          "price": 1904,
+          "qty": 1,
+          "total": 1904,
+          "pic": "pic23.jpg"
+        },
+        {
+          "_id": 6,
+          "userid": "3",
+          "productid": "13",
+          "name": "Mens Prada Jackets",
+          "maincategory": "Male",
+          "subcategory": "Jackets",
+          "brand": "Prada",
+          "color": "Red",
+          "size": "42",
+          "price": 3300,
+          "qty": 1,
+          "total": 3300,
+          "pic": "pic17.jpg"
+        }
+      ],
+      "id": 1
+    },
+    {
+      "userid": "3",
+      "mode": "Net Banking",
+      "status": "Order Placed",
+      "paymentstatus": "Pending",
+      "rppid": "",
+      "total": -4,
+      "shipping": 150,
+      "final": 146,
+      "date": "2023-11-20T12:26:46.110Z",
+      "products": [
+        {
+          "_id": 3,
+          "userid": "3",
+          "productid": "19",
+          "name": "wfwfw",
+          "maincategory": "kids",
+          "subcategory": "kk",
+          "brand": "Nike",
+          "color": "sss",
+          "size": "M",
+          "price": -4,
+          "qty": 1,
+          "total": -4,
+          "pic": "pic4.jpg"
+        }
+      ],
+      "id": 2
+    }
+  ]
+}
